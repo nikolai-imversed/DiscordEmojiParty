@@ -1,4 +1,4 @@
-THIS IS A FORK of Original repository that was abbandoned.
+THIS IS A FORK of Original repository that was abandoned.
 It is fixed and emoji collage can now be sent as an attachment. I might look into code again and do proper autosend sometime soon.
 
 <h1 align="center">EmojiParty</h1>
